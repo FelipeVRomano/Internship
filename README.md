@@ -1,2 +1,2 @@
 # Estágio
-Alguns dos scripts que realizei durante meu estágio na Arch Works.
+Alguns dos scripts que fiz durante meu estágio na Arch Works.
